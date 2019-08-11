@@ -11,6 +11,6 @@ NOTE: Pages in parenthesis planned, but not currently available
 	- (1 Page)
 	- (Facing Pages)
 	- (2 Sided Page)
-* Daylies (available in the .sla file as layers -- dont forget to enable printing!)
+* Dailies (available in the .sla file as layers -- dont forget to enable printing!)
 	- Left and Right Binding
 	- 1-4 Columns
